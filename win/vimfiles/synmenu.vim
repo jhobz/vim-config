@@ -1,0 +1,1 @@
+an 50.150.450 &Syntax.WXYZ.Wiki :cal SetSyn("mediawiki")<CR>
